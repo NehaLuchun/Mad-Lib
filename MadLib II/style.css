@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(188, 236, 236);
+    font-family: 'Roboto Slab', serif;
+}
+
+div {
+    width: 800px;
+    margin: auto;
+    background-color: black;
+    color: rgb(188, 236, 236);
+}
+
+.Input {
+    padding: 20px 20px;
+}
+
+.Result {
+    padding: 20px 20px;
+}
+
+.tittle {
+    border-radius: 20px;
+    text-align: center;
+    color: black;
+    background-color: rgb(188, 236, 236);
+}
+
+h1 {
+    font-size: 80px;
+    font-family: 'Modak', cursive;
+}
+
+h2 {
+    font-size: 40px;
+} 
+
+p {
+    font-size: 20px;
+}
+
+#submit {
+    padding: 4px 40px;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(188, 236, 236);
+}
